@@ -1,0 +1,19 @@
+{
+  "name": "echopeak",
+  "version": "1.0.0",
+  "description": "Arduino Facebook notifier",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebi31/EchoPeak.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sebi31/EchoPeak/issues"
+  },
+  "homepage": "https://github.com/sebi31/EchoPeak#readme"
+}
