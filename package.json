@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sebi31/EchoPeak/issues"
   },
-  "homepage": "https://github.com/sebi31/EchoPeak#readme"
+  "homepage": "https://github.com/sebi31/EchoPeak#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
 }
